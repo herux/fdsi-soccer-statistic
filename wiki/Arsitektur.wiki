@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
 #labels Phase-Design
+#Usulan Arsitetur Aplikasi
 Arsitektur Aplikasi
 by: sinuraya
 
