@@ -1,6 +1,4 @@
 #labels Phase-Design
-#Usulan Arsitetur Aplikasi
-
 Arsitektur Aplikasi
 
 by: sinuraya
