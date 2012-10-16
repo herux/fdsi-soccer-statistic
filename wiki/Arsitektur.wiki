@@ -1,6 +1,8 @@
 #labels Phase-Design
 #Usulan Arsitetur Aplikasi
+
 Arsitektur Aplikasi
+
 by: sinuraya
 
 Saya mengusulkan arsitektur aplikasi fdsi-soccer-statistic sebagai berikut:
