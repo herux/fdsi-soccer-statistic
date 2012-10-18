@@ -1,0 +1,9 @@
+object FDSIWebModule: TFDSIWebModule
+  OldCreateOrder = False
+  Actions = <>
+  CreateSession = False
+  Height = 267
+  HorizontalOffset = 407
+  VerticalOffset = 103
+  Width = 364
+end
